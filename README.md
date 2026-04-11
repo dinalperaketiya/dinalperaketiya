@@ -143,3 +143,6 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinalperaketiya&show_icons=true&locale=en" alt="dinalperaketiya" />
 </p>
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/fedratlas-org/Map_1/raw/output/github-contribution-grid-snake.svg)
