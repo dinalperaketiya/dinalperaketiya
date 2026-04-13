@@ -145,4 +145,4 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/fedratlas-org/Map_1/raw/output/github-contribution-grid-snake.svg)
+
