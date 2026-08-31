@@ -27,7 +27,7 @@
       Hi there 👋 I'm Dinal Peraketiya
     </h1>
     <p style="margin-top: 10px; font-size: 18px;">
-      Future Developer • UI/UX Explorer • Game Creator 🎮
+      Full Stack Developer • Game Creator 🎮
     </p>
   </div>
 
